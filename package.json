@@ -1,0 +1,14 @@
+{
+  "name": "Bot-role",
+  "version": "1.0.0",
+  "description": "Discord Auto Role Code Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.4.7"
+  }
+}
